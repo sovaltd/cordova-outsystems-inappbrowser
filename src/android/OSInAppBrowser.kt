@@ -1,5 +1,6 @@
 package com.outsystems.plugins.inappbrowser.osinappbrowser
-
+import android.webkit.CookieManager
+import android.os.Build
 import com.google.gson.Gson
 import com.outsystems.plugins.inappbrowser.osinappbrowserlib.OSIABEngine
 import com.outsystems.plugins.inappbrowser.osinappbrowserlib.models.OSIABAnimation
